@@ -1,4 +1,4 @@
-![Header]([https://images.unsplash.com/photo-1624378440518-e6c4e968ff32?auto=format&fit=crop&w=1380&q=80](https://pikaso.cdnpk.net/private/production/2075841670/render.jpeg?token=exp=1767916800~hmac=b3c9d6cb1f0158cc4ec247da31cb99b3f032684e2644f12242ea2c1f20d6483a)
+![Header](https://pikaso.cdnpk.net/private/production/2075841670/render.jpeg?token=exp=1767916800~hmac=b3c9d6cb1f0158cc4ec247da31cb99b3f032684e2644f12242ea2c1f20d6483a)
 
 # Hi there 👋, I'm **Rohit Shankar**  
 ### Android Developer | Backend Developer | Software Craftsman
